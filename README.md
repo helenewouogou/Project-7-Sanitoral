@@ -5,8 +5,11 @@ Client: SANITORIAL
 
 Context and challenges of the assignment 
 SANITORIAL, an international company that manufactures and markets oral care products, is looking to set up a dashboard to :
-1-Monitor the progress of projects;
-2-Identify delays;
+
+1-Monitor the progress of projects
+
+2-Identify delays
+
 3-Control performance so that the team can take appropriate action.
 
 Dashboard objective: To assess the performance of the various IT and Marketing projects.
